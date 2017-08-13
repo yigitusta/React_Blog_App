@@ -1,0 +1,27 @@
+.title > p, .title > h5, .date > p, .date > h5, .content > p, .content > h5, .id > p, .id > h5 {
+  display: inline;
+}
+
+.title > p, .date > p, .content > p, .id > p {
+  text-align: center;
+}
+
+.post{
+  margin-bottom: 0 !important;
+}
+
+button{
+  margin: 8px;
+}
+
+.title > h5, .date > h5, .content > h5, .id > h5 {
+  display: inline;
+}
+
+input[name="titleEdit"], input[name="dateEdit"], textarea[name="contentEdit"]{
+  margin-top: 3px;
+}
+
+.title, .date, .content, .id{
+  margin-bottom: 10px;
+}
