@@ -7,12 +7,12 @@ const posts = [
   {
     title: 'intern',
     date: '19-06-2017',
-    content: 'hello this is my first post',
+    content: 'this is my first post',
   },
   {
-    title: 'hello',
+    title: '2nd post',
     date: '20-06-2017',
-    content: 'post 2',
+    content: 'another one',
   },
 ];
 
